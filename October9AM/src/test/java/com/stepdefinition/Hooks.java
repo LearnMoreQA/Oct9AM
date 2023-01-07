@@ -17,8 +17,8 @@ public class Hooks extends BrowerInvoke {
         }
     }
 
-  /*  @After
+  @After
     public void closeBrowser(){
         driver.quit();
-    }*/
+    }
 }
